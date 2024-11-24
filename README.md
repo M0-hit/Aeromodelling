@@ -1,4 +1,4 @@
-# National Aeromodeling Competition
+# National Aeromodeling✈️Competition
 Welcome, This repository provides an overview of our innovative plane model, including images and the abstract of the design. 
 
 This event was part of the prestigious **IIT Bombay Techfest 2024**, where our team proudly participated.
